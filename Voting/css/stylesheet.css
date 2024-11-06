@@ -1,0 +1,31 @@
+body {
+    text-align: center;
+    background-color: rgba(27, 207, 90, 0.818);
+}
+
+#headerSection {
+    padding: 10px;
+}
+
+/* #heaedrSection h1{
+    font-family: cursive;
+    text-align: start;
+} */
+input {
+    padding: 10px;
+    border-radius: 5px;
+}
+
+#dropbox {
+    padding: 10px;
+    border-radius: 5px;
+    width: 15%;
+}
+
+.btn {
+    padding: 5px;
+    border-radius: 5px;
+    background-color: aqua;
+    color: white;
+    font-size: 15px;
+}
